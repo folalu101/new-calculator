@@ -1,0 +1,36 @@
+.container {
+    text-align: center;
+    background: linear-gradient(to right, #00AAFF, #00FF6C);
+
+}
+body {
+    background: linear-gradient(to right, #00AAFF, #00FF6C);
+
+}
+#vision {
+    width: 320px;
+    border-radius: 15px;
+    border-color: gray;
+    border-style: solid;
+    border-width: 5px;
+}
+input {
+    font-size: 40px;
+    width: 75px;
+    height: 65px;
+    margin: 3px;
+    border-radius: 15px;
+    border: none;
+    font-family: Gotham Rounded, sans-serif;
+    font-weight: normal;
+}
+#form-house {
+    margin-top: 70px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 15px;
+    background: linear-gradient(to right, #00FFAA, #00BB9F);
+}
+.equal-to {
+    width: 320px;
+}
