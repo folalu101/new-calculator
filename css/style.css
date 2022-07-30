@@ -34,3 +34,7 @@ input {
 .equal-to {
     width: 320px;
 }
+input:hover {
+    cursor: pointer;
+    color: rgb(25%, 57%, 82%);
+}
