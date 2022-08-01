@@ -1,8 +1,16 @@
-$(document).ready(function(){
-function power(num){
-     num * num;
-    return;
+function power(num1, num2){
+    let result = Math.pow(num1, num2);
+   return result;
 }
-console.log(power);
+
+function sRoot(num1){
+    let finalAns = Math.sqrt(num1);
+    return finalAns;
+}
+
+
+$(document).ready(function(){
+
 
 });
+

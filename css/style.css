@@ -3,7 +3,10 @@
    
 }
 body {
-    background-image: url(../img/calcu1.jpg);
+    background-image: url(../img/naruto.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 #vision {
@@ -22,7 +25,7 @@ input {
     border: none;
     font-family: Gotham Rounded, sans-serif;
     font-size: large;
-    background-color: gray;
+    background-color: whitesmoke;
 }
 .division {
     width: 150px;
@@ -32,11 +35,14 @@ input {
     padding: 10px;
     display: inline-block;
     border-radius: 15px;
-    /* background: linear-gradient(to right, #888345, #111881); */
-    border-color: darkgray;
+    background: linear-gradient(to right, #888345, #111881);
+    /* border-color: darkgray;
     border-width: 15px;
-    border-style: double;
-    background-image: url(../img/calcu3.jpg);
+    border-style: double; */
+    /* background-image: url(../img/cat.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
 }
 .equal-to {
     width: 330px;
